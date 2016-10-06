@@ -1,2 +1,0 @@
-# min-portfolio
-Personal Portfolio
